@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: ConsoleApp1",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\ConsoleApp1\\ConsoleApp1.csproj",
+            "launchConfigurationId": "TargetFramework=;ConsoleApp1"
+        }
+    ]
+}
