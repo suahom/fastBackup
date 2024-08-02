@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "notZip压缩程序", "Conso
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "notZip解压程序", "ConsoleApp1\notZip解压程序.csproj", "{CB9A79D9-2574-4AE1-BA93-1BC551A5FCBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notZip压缩解压程序", "notZip压缩解压程序\notZip压缩解压程序.csproj", "{725C4058-E7D4-45C8-AC9B-8EEFD8C307EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notZip去重备份程序", "notZip去重备份程序\notZip去重备份程序.csproj", "{45ED9815-B0AE-4298-A70A-9DE8F1469742}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{CB9A79D9-2574-4AE1-BA93-1BC551A5FCBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB9A79D9-2574-4AE1-BA93-1BC551A5FCBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB9A79D9-2574-4AE1-BA93-1BC551A5FCBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{725C4058-E7D4-45C8-AC9B-8EEFD8C307EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725C4058-E7D4-45C8-AC9B-8EEFD8C307EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725C4058-E7D4-45C8-AC9B-8EEFD8C307EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725C4058-E7D4-45C8-AC9B-8EEFD8C307EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45ED9815-B0AE-4298-A70A-9DE8F1469742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45ED9815-B0AE-4298-A70A-9DE8F1469742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45ED9815-B0AE-4298-A70A-9DE8F1469742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45ED9815-B0AE-4298-A70A-9DE8F1469742}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
